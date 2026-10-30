@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f6299651-6858-434e-94d1-0b0336ae0421",
+    "name": "sgh",
+    "email": "abc@gmail.com",
+    "passwordHash": "$2a$10$RmFD8//oqjjEibuHM6JbAuWarNYyfHC1K4YkrwSCVr7f1J9DvRH.."
+  },
+  {
+    "id": "d2ff40e3-b373-471e-9882-2fa836ee0957",
+    "name": "abcdef",
+    "email": "abc12@gmail.com",
+    "passwordHash": "$2a$10$zBbetP.CymAZvIQu481zPuqjTu8SHPMwtjI9tOzRgn57rt5OwfAFO"
+  },
+  {
+    "id": "a94dabc0-f4ff-4e63-8cc5-ca9fe559a98d",
+    "name": "sakshi",
+    "email": "sakshi@gmail.com",
+    "passwordHash": "$2a$10$6mLO4jcyfQdrlSWfkGaN0uzT5qYpWw0k/XhqL1RapZOL1OvDWg85G"
+  },
+  {
+    "id": "dca15b63-941c-40af-9ac7-7cbf8fda162a",
+    "name": "rose",
+    "email": "rose@gmail.com",
+    "passwordHash": "$2a$10$eNG.34hTrRoJFPwt/6ShG.aWdx9NzLfr09S2ur8x6rPRKBWH1p26C"
+  },
+  {
+    "id": "73f76d90-5aac-4c34-9d52-216e76862001",
+    "name": "Han",
+    "email": "han@gmail.com",
+    "passwordHash": "$2a$10$nj3OoK1XdM3NdNMUl/i1Xe6M4YQKSmtTDuL.qNw20Kp3VH5dcjl/."
+  },
+  {
+    "id": "6ee7f9b8-df71-48e0-ae40-2b55a1fd79d3",
+    "name": "saaaaaaaa",
+    "email": "hi@gmail.com",
+    "passwordHash": "$2a$10$uEE1HUCEYMCaKFw//2hNlOiIKJEm2j0XXULfB5sV1iqJIwQl75/f2"
+  }
+]
